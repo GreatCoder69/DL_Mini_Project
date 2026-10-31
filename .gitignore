@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/cache/
+data/processed/*.npz
+data/split_indices/
+data/vocabulary/
+models/*.pt
+results/*.png
+results/*.csv
+results/*.json
+.report_work/
+*.log
